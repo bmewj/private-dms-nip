@@ -31,7 +31,7 @@ That being said, we can make an effort to improve it today.
 
 ## General flow
 
-![Messages Diagram](https://raw.githubusercontent.com/bartjoyce/private-dms-nip/master/message-diagram.jpg)
+![Messages Diagram](https://raw.githubusercontent.com/bartjoyce/private-dms-nip/main/message-diagram.jpg)
 
 Bob wants to send incognito messages to Alice.
 
